@@ -1,3 +1,7 @@
-raiyanmrahman.github.io
+# raiyanmrahman.github.io
 
-Host for my ET-710 class website
+GitHub Pages version of [my website for ET-710](http://nystromco.com/rrahman/) for ET-710, Professor Nystrom
+
+## License
+
+[GNU GPL v3](https://choosealicense.com/licenses/gpl-3.0/)
